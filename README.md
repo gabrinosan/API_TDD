@@ -1,1 +1,1 @@
-Desenvolvimento de uma API apartir do TDD.
+Desenvolvimento de uma API a partir do TDD.
